@@ -24,4 +24,4 @@ public class Bai2 {
 		   if (num3 > num2)
 		    System.out.println("The greatest: " + num3);
 		 }
-		}
+}
